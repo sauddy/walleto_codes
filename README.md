@@ -36,10 +36,12 @@ Once the env is activated You can install the required dependencies by running:
 <!-- ```bash
 pip install -e .  
 ``` -->
-# Or using pip
+# pip
 pip install pillow
 
 ---
+
+If any library is missing, please pip install (make sure your evn is activated)
 
 ## 📝 Usage
 
